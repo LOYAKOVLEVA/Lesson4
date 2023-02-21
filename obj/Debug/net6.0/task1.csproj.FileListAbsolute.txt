@@ -1,0 +1,15 @@
+/Users/larisayakovleva/Lesson4/task1/bin/Debug/net6.0/task1
+/Users/larisayakovleva/Lesson4/task1/bin/Debug/net6.0/task1.deps.json
+/Users/larisayakovleva/Lesson4/task1/bin/Debug/net6.0/task1.runtimeconfig.json
+/Users/larisayakovleva/Lesson4/task1/bin/Debug/net6.0/task1.dll
+/Users/larisayakovleva/Lesson4/task1/bin/Debug/net6.0/task1.pdb
+/Users/larisayakovleva/Lesson4/task1/obj/Debug/net6.0/task1.csproj.AssemblyReference.cache
+/Users/larisayakovleva/Lesson4/task1/obj/Debug/net6.0/task1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/larisayakovleva/Lesson4/task1/obj/Debug/net6.0/task1.AssemblyInfoInputs.cache
+/Users/larisayakovleva/Lesson4/task1/obj/Debug/net6.0/task1.AssemblyInfo.cs
+/Users/larisayakovleva/Lesson4/task1/obj/Debug/net6.0/task1.csproj.CoreCompileInputs.cache
+/Users/larisayakovleva/Lesson4/task1/obj/Debug/net6.0/task1.dll
+/Users/larisayakovleva/Lesson4/task1/obj/Debug/net6.0/refint/task1.dll
+/Users/larisayakovleva/Lesson4/task1/obj/Debug/net6.0/task1.pdb
+/Users/larisayakovleva/Lesson4/task1/obj/Debug/net6.0/task1.genruntimeconfig.cache
+/Users/larisayakovleva/Lesson4/task1/obj/Debug/net6.0/ref/task1.dll
